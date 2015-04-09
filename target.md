@@ -1,13 +1,22 @@
 **BANCA**
 *RESPONSABILIDADES*
+
 *repartir mano inicial	
+
 *repartir carta adicional	
+
 *mostrar todo o parte de una mano	
-*calcular valor de una mano	
-*calcular número de cartas de una mano	
+
+*calcular valor de una mano
+
+*calcular número de cartas de una mano
+
 *determinar al ganador	
+
 *comenzar un nuevo juego	
+
 *administrar apuestas	
+
 *COLABORADORES*
 *jugador
 *baraja
