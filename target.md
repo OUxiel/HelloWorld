@@ -1,11 +1,11 @@
 
-Class: Banca|
+Banca|
 ----------------- |----------------
  Responsabilidades:  |  
-*Repartir las cartas |  
-*Repartir a los jugadores cartas adicionales|
+*Repartir mano inicial |  
+*Repartir carta adicional | 
 *Mostrar toda o parte de una mano| 
-*Calcular el valor de la totalidad o parte de una mano|
+*Calcular el valor de una mano|
 *Calcular el numero de cartas de una mano|
 *Determinar el ganador |
 *Empezar una nueva mano|
@@ -13,7 +13,7 @@ Colaboraciones:|
 *Baraja|
 *Jugador|
 *Mano|
-
+*Carta|
 
 ***
 ***
