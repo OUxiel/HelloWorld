@@ -1,6 +1,6 @@
-##**BANCA**
+#**BANCA**
 ----------------- |----------------
-#*RESPONSABILIDADES*|
+##*RESPONSABILIDADES*|
 *repartir mano inicial	|
 *repartir carta adicional	|
 *mostrar todo o parte de una mano	|
@@ -10,15 +10,15 @@
 *comenzar un nuevo juego|
 *administrar apuestas	|
 ----------------- |----------------
-*COLABORADORES*|
+##*COLABORADORES*|
 *jugador|
 *baraja|
 *mano|
 *carta|
 ***
-##**JUGADOR**
+#**JUGADOR**
 ----------------- |----------------
-#*RESPONSABILIDADES*|
+##*RESPONSABILIDADES*|
 *pedir cartas	|
 *mostrar mano |	
 *calcular valor de una mano|	
@@ -26,12 +26,12 @@
 *responder a la banca	|
 *apostar	|
 ----------------- |----------------
-*COLABORADORES*|
+##*COLABORADORES*|
 *banca|
 *mano|
 *carta|
 ***
-##**CARTA**
+#**CARTA**
 ----------------- |----------------
 #*RESPONSABILIDADES*|
 *saber su valor	|
